@@ -4,7 +4,7 @@
 	branch = script-mode
 [submodule "sagemaker-rl-container"]
 	path = sagemaker-rl-container
-	url = https://github.com/crr0004/sagemaker-rl-container
+	url = https://github.com/Burke9077/sagemaker-rl-container
 	branch = master
 [submodule "sagemaker-python-sdk"]
 	path = sagemaker-python-sdk
